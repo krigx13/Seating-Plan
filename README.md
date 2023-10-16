@@ -19,3 +19,5 @@ Working:
 ![image](https://github.com/krigx13/Seating-Plan-System/assets/119889272/aa98259e-901a-4d15-8a3d-d1d8f2fab5dc)
 ![image](https://github.com/krigx13/Seating-Plan-System/assets/119889272/4b0bae0d-64d1-42dc-91c5-ad46e6f9fdab)
 ![image](https://github.com/krigx13/Seating-Plan-System/assets/119889272/d8cc6147-a335-4cb1-9b84-997bf24035aa)
+![image](https://github.com/krigx13/Seating-Plan-System/assets/119889272/93dbf8f0-112e-4df8-af1f-2d0e605cd0e9)
+![image](https://github.com/krigx13/Seating-Plan-System/assets/119889272/500c359a-5f67-4556-88c2-0df4cbe45cf3)
